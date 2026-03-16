@@ -1,7 +1,1 @@
-# My GitHub Learning Journey
-Welcome to my first repository!
-### What I am learning:
--[x] Creating a Repository
--[x] Making Folders and Files
--[x] Writing Commit Messages
-*I am currently learning Git and this is my first step in my coding journey.*
+https://www.linkedin.com/posts/sweta-rani-cse_python-algorithms-datastructures-activity-7439114237429403649-fQ5p?utm_source=screenshot_social_share&utm_medium=android_app&rcm=ACoAAElDWogBM8RYA8wqxIcgWh78WPWPYMG68b4&utm_campaign=share_via
